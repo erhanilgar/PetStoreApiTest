@@ -7,6 +7,7 @@
 *QA Test Automation Engineer*
 
 *erhanilgar@gmail.com*
+www.linkedin.com/in/erhanilgar
 
 <!-- ABOUT THE PROJECT -->  
 ## About The Project
@@ -34,6 +35,12 @@ I created different scenarios and secanario outlines and each of them has its ow
 > API DOCUMENTATION:  
 > https://petstore.swagger.io/v2/
 
+#### Project Folder and Class Structure Diagram
+
+
+![Project Folder and Diagram](https://user-images.githubusercontent.com/58039498/145981246-3ffe8766-90c3-4090-80cc-8d7855ae5813.jpeg)
+
+
 
 #### Libraries used
 (Built using Maven 4)
@@ -48,6 +55,7 @@ I created different scenarios and secanario outlines and each of them has its ow
 > Maven Cucumber Reporting
 
 2021 December&reg;
+
 
 
 ### End
